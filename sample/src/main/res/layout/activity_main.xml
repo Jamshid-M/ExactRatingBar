@@ -12,10 +12,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        app:starCount="7"
+        app:starCount="5"
         app:isIndicator="false"
         app:starFillColor="@color/colorAccent"
-        app:starSize="32"
+        app:starSize="96"
         app:starValue="3.5"
         />
 
