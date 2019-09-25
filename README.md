@@ -1,7 +1,8 @@
 # ExactRatingBar
 [![](https://jitpack.io/v/Jamshid-M/ExactRatingBar.svg)](https://jitpack.io/#Jamshid-M/ExactRatingBar)
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ExactRatingBar-green.svg?style=flat)]( https://android-arsenal.com/details/1/7874 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ExactRatingBar-green.svg?style=flat)]
+(https://android-arsenal.com/details/1/7874)
 
 #### RatingBar with exact values. </br>
 <img src="https://github.com/Jamshid-M/ExactRatingBar/blob/master/sources/example.gif" height="550">
