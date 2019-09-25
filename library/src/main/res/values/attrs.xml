@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExactRatingBar">
+        <attr name="starValue" format="float"/>
+        <attr name="starSize" format="integer"/>
+        <attr name="starCount" format="integer"/>
+        <attr name="isIndicator" format="boolean"/>
+        <attr name="starFillColor" format="color"/>
+        <attr name="starBorderWidth" format="integer"/>
+    </declare-styleable>
+</resources>
